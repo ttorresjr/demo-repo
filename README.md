@@ -4,4 +4,4 @@ Some description!
 
 ## Subheading
 
-Adding Training via YouTube.
+Watch tutorial on YouTube.
